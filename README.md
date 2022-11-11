@@ -101,7 +101,9 @@ int main(void)
 ## Before Simulation:
 ![OUTPUT-1](IMG-01.PNG)
 ## After Simulation
+### After Simulation(NUMBERS)
 ![OUTPUT-2](IMG-02.PNG)
+### After Simulation(ALPHABETS)
 ![OUTPUT-3](IMG-03.PNG)
 
 
